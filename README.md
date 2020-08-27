@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **If a service gives you 99.99% SLA, Always expect that 0.01%**
 
+### Vibing to
+[![Spotify](https://novatorem-h86gvngpk.vercel.app/api/spotify)](https://open.spotify.com/user/manishprivet)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [An introduction to Cloud, Docker and AWS Fargate](https://medium.com/@manishprivet/hey-folks-e4a300a5465c?source=rss-7d6d2d7e2bab------2)
