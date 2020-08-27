@@ -18,7 +18,7 @@
 - ⚡ Fun fact **If a service gives you 99.99% SLA, Always expect that 0.01%**
 
 ### Vibing to
-[![Spotify](https://novatorem-h86gvngpk.vercel.app/api/spotify)](https://open.spotify.com/user/manishprivet)
+[![Spotify](https://novatorem-h86gvngpk.vercel.app/api/spotify)](https://open.spotify.com/user/ak6rgwer8utlykvcgi7gc73mq)
 
 [![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishprivet)](https://github.com/manishprivet)
 
