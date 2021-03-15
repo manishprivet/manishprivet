@@ -28,6 +28,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [An introduction to Cloud, Docker and AWS Fargate](https://medium.com/@manishprivet/hey-folks-e4a300a5465c?source=rss-7d6d2d7e2bab------2)
 <!-- BLOG-POST-LIST:END -->
+- [Web Server Deployment Using Nginx and Docker](https://blog.manish.codes/server-deployment-using-nginx-and-docker/)
 
 ## Reach me out
 
