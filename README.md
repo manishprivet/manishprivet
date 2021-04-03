@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishprivet" alt="manishprivet" /> </p>
 
-- 🔭 I’m currently working on [IEEE Student Branch Website of ABV - IIITM, Gwalior](https://ieee.iiitm.ac.in)
+- 🔭 I’m currently a FullStack Developer + Cloud Architect intern at [Maalexi](https://maalexi.com) as well as working on [IEEE Student Branch Website](https://ieee.iiitm.ac.in) of [ABV - IIITM, Gwalior](https://iiitm.ac.in), apart from my own personal projects of course
 
 - 🌱 I’m currently learning **Machine Learning, Python, Django, Google Cloud and AWS**
 
 - 👨‍💻 All of my projects are available at [https://manish.codes](https://manish.codes)
 
-- 📝 Read my blogs on [https://medium.com/@manishprivet](https://medium.com/@manishprivet)
+- 📝 Read my blogs on [https://medium.com/@manishprivet](https://medium.com/@manishprivet) or at my personal blog site [Codex](https://blog.manish.codes)
 
-- 💬 Ask me about **React, Next.js, AWS, Github Actions**
+- 💬 Ask me about **React, Next.js, Gatsby, AWS, GCP, Github Actions, Firebase or anything else related to Web Development**
 
-- 📫 Reach me out at **manishprivet@protonmail.com** or any of the social media links below
-
-- ⚡ Fun fact **If a service gives you 99.99% SLA, Always expect that 0.01%**
+- 📫 Reach me out at **manishprivet@protonmail.com** or just search `manishprivet` anywhere 😉
 
 ### Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/ak6rgwer8utlykvcgi7gc73mq)
@@ -32,6 +30,7 @@
 
 ## Reach me out
 
+<a href="https://manish.codes" target="blank">Website</a><br>
 <a href="https://twitter.com/manishprivet" target="blank">Twitter</a><br>
 <a href="https://linkedin.com/in/manishprivet" target="blank">Linkedin</a><br>
 <a href="https://stackoverflow.com/users/manishprivet" target="blank">Stackoverflow</a><br>
