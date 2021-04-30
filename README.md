@@ -18,7 +18,7 @@
 ### Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/ak6rgwer8utlykvcgi7gc73mq)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishprivet)](https://github.com/manishprivet)
 
