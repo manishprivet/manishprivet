@@ -24,6 +24,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet)
 
+![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=dracula)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [An introduction to Cloud, Docker and AWS Fargate](https://medium.com/@manishprivet/hey-folks-e4a300a5465c?source=rss-7d6d2d7e2bab------2)
