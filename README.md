@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Python, Django, Google Cloud and AWS**
 
-- 👨‍💻 All of my projects are available at [https://manish.codes](https://manish.codes)
+- 👨‍💻 All of my projects are available at [https://manish.codes](https://manishk.dev)
 
-- 📝 Read my blogs on [https://medium.com/@manishprivet](https://medium.com/@manishprivet) or at my personal blog site [Codex](https://blog.manish.codes)
+- 📝 Read my blogs on [https://medium.com/@manishprivet](https://medium.com/@manishprivet) or at my personal blog site [Codex](https://blog.manishk.dev)
 
 - 💬 Ask me about **React, Next.js, Gatsby, AWS, GCP, Github Actions, Firebase or anything else related to Web Development**
 
@@ -30,11 +30,11 @@
 <!-- BLOG-POST-LIST:START -->
 - [An introduction to Cloud, Docker and AWS Fargate](https://medium.com/@manishprivet/hey-folks-e4a300a5465c?source=rss-7d6d2d7e2bab------2)
 <!-- BLOG-POST-LIST:END -->
-- [Web Server Deployment Using Nginx and Docker](https://blog.manish.codes/server-deployment-using-nginx-and-docker/)
+- [Web Server Deployment Using Nginx and Docker](https://blog.manishk.dev/server-deployment-using-nginx-and-docker/)
 
 ## Reach me out
 
-<a href="https://manish.codes" target="blank">Website</a><br>
+<a href="https://manishk.dev" target="blank">Website</a><br>
 <a href="https://twitter.com/manishprivet" target="blank">Twitter</a><br>
 <a href="https://linkedin.com/in/manishprivet" target="blank">Linkedin</a><br>
 <a href="https://stackoverflow.com/users/manishprivet" target="blank">Stackoverflow</a><br>
