@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Python, Django, Google Cloud and AWS**
 
-- 👨‍💻 All of my projects are available at [https://manish.codes](https://manishk.dev)
+- 👨‍💻 All of my projects are available at [https://manishk.dev](https://manishk.dev)
 
 - 📝 Read my blogs on [https://medium.com/@manishprivet](https://medium.com/@manishprivet) or at my personal blog site [Codex](https://blog.manishk.dev)
 
