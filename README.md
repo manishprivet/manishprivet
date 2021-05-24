@@ -42,9 +42,7 @@ Other        37 mins         █░░░░░░░░░░░░░░░░
 ![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=dracula)
 
 ### 🗒 Blogs I've written
-<!-- BLOG-POST-LIST:START -->
 - [An introduction to Cloud, Docker and AWS Fargate](https://medium.com/@manishprivet/hey-folks-e4a300a5465c?source=rss-7d6d2d7e2bab------2)
-<!-- BLOG-POST-LIST:END -->
 - [Web Server Deployment Using Nginx and Docker](https://blog.manishk.dev/server-deployment-using-nginx-and-docker/)
 - [Create a CI/CD Pipeling using Github Actions](https://blog.manishk.dev/create-a-ci-cd-pipeline-using-github-actions/)
 
