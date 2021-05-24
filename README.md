@@ -30,13 +30,7 @@ Other        37 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### 👀 My Github Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishprivet)](https://github.com/manishprivet)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
-
-![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=dracula)
 
 ### 🗒 Blogs I've written
 <!-- BLOG-POST-LIST:START -->
