@@ -20,15 +20,6 @@
 ### Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/ak6rgwer8utlykvcgi7gc73mq)
 
-### 👀 My GitHub stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishprivet&theme=radical)](https://github.com/manishprivet)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
-
-![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=dracula)
-
 ### 👨‍💻 Where I spent time on this week
 <!--START_SECTION:waka-->
 ```text
@@ -42,6 +33,13 @@ Other        37 mins         █░░░░░░░░░░░░░░░░
 
 ### 👀 My Github Stats
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishprivet&theme=radical)](https://github.com/manishprivet)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
+
+![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=dracula)
 
 ### 🗒 Blogs I've written
 <!-- BLOG-POST-LIST:START -->
