@@ -22,7 +22,9 @@
 
 [![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishprivet)](https://github.com/manishprivet)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=dracula)
 
