@@ -24,6 +24,13 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
 <!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 29 mins   ████████████░░░░░░░░░░░░░   47.65 % 
+Python       3 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+TypeScript   1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+SCSS         1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Other        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+```
 <!--END_SECTION:waka-->
 
 ![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=dracula)
