@@ -33,7 +33,7 @@ Other        37 mins         █░░░░░░░░░░░░░░░░
 
 ### 👀 My Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
 
 [![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishprivet&theme=radical)](https://github.com/manishprivet)
 
