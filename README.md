@@ -35,7 +35,7 @@ JSON         28 mins         ▓░░░░░░░░░░░░░░░░
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
 
-[![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishprivet&theme=radical)](https://github.com/manishprivet)
+[![Manish's github stats](https://github-readme-stats-bice-five.vercel.app/api?username=manishprivet&theme=radical)](https://github.com/manishprivet)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
 
