@@ -40,7 +40,7 @@ SCSS         38 mins         █░░░░░░░░░░░░░░░░
 [![Manish's github stats](https://github-readme-stats-bice-five.vercel.app/api?username=manishprivet&theme=github_dark&hide_border=true)](https://github.com/manishprivet)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
-![Coder rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=manishprivet&width=250)
+<!-- ![Coder rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=manishprivet&width=250) -->
 
 ![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=github&bg_color=0D1117&hide_border=true)
 
