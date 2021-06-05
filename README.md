@@ -5,7 +5,7 @@
 
 - #### 🔭&nbsp; I’m currently a FullStack Developer + Cloud Architect intern at [Maalexi](https://maalexi.com) as well as working on [IEEE Student Branch Website](https://ieee.iiitm.ac.in) of [ABV - IIITM, Gwalior](https://iiitm.ac.in), apart from my own personal projects of course
 
-- #### 🌱 &nbsp;I’m currently learning **Rust, Golang, Google Cloud and AWS**
+- #### 🌱 &nbsp;I’m currently learning **Rust, Golang, Google Cloud and AWS, GCP**
 
 - #### 👨‍💻&nbsp; All of my projects are available at [https://manishk.dev](https://manishk.dev)
 
