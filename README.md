@@ -35,14 +35,14 @@ Other        58 mins         █▒░░░░░░░░░░░░░░░
 
 ### 👀 My Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-[![Manish's github stats](https://github-readme-stats-bice-five.vercel.app/api?username=manishprivet&theme=github_dark&hide_border=true)](https://github.com/manishprivet)
+[![Manish's github stats](https://github-readme-stats-bice-five.vercel.app/api?username=manishprivet&theme=dracula&hide_border=true)](https://github.com/manishprivet)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
 <!-- ![Coder rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=manishprivet&width=250) -->
 
-![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=github&bg_color=0D1117&hide_border=true)
+![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=dracula&bg_color=0D1117&hide_border=true)
 
 ### 🗒 Blogs I've written
 - [An introduction to Cloud, Docker and AWS Fargate](https://medium.com/@manishprivet/hey-folks-e4a300a5465c?source=rss-7d6d2d7e2bab------2)
