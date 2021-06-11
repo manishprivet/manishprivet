@@ -35,7 +35,7 @@ JSON         9 mins          ▓░░░░░░░░░░░░░░░░
 
 ### 👀 My Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 [![Manish's github stats](https://github-readme-stats-bice-five.vercel.app/api?username=manishprivet&theme=dracula&hide_border=true)](https://github.com/manishprivet)
 
