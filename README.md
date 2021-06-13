@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish</h1>
+<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India, currently interested in Cloud Computing, DevOps and Rust</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishprivet" alt="manishprivet" /> </p>
