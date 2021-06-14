@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">A passionate Full Stack Web Develope, currently interested in Cloud Computing, DevOps and Rust</h3>
+<h3 align="center">A passionate Full Stack Web Developer, currently interested in Cloud Computing, DevOps and Rust</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishprivet" alt="manishprivet" /> </p>
 
