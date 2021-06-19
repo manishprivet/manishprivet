@@ -35,9 +35,12 @@ YAML         2 mins          ▒░░░░░░░░░░░░░░░░
 
 ### 👀 My Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
+<p align="center"> <a href="https://git.io/streak-stats"><img alt="Manish Kumar's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=cobalt&hide_border=true" /></a> </p>
 
-[![Manish's github stats](https://github-readme-stats-bice-five.vercel.app/api?username=manishprivet&theme=dracula&hide_border=true)](https://github.com/manishprivet)
+
+
+<a href="https://github.com/manishprivet/github-readme-stats"><img alt="Manish Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manishprivet&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/manishprivet/github-readme-stats"><img alt="Manish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
 <!-- ![Coder rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=manishprivet&width=250) -->
