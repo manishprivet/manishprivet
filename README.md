@@ -35,7 +35,7 @@ YAML         19 mins         ▓░░░░░░░░░░░░░░░░
 
 ### 👀 My Github Stats
 
-<p align="center"> <a href="https://git.io/streak-stats"><img alt="Manish Kumar's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=cobalt&hide_border=true" /></a> </p>
+<p align="center"> <a href="https://git.io/streak-stats"><img alt="Manish Kumar's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=dark&hide_border=true" /></a> </p>
 
 
 
