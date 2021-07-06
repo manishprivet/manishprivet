@@ -13,7 +13,7 @@
 
 - #### 💬 &nbsp;Ask me about **React, Next.js, Gatsby, AWS, GCP, Github Actions, Firebase or anything else related to Web Development**
 
-- #### 📫&nbsp; Reach me out at **me@manishk.dev** or just search `manishprivet` anywhere 😉
+- #### 📫&nbsp; Reach me out at <a href="mailto:me@manishk.dev"><b>me@manishk.dev</b></a> or just search `manishprivet` anywhere 😉
 
 - #### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://manishk.dev/resume.pdf)
 
