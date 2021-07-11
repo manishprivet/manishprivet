@@ -34,11 +34,11 @@ JSON         25 mins         █▓░░░░░░░░░░░░░░░
 
 ### 👀 My Github Stats
 
-<p align="center"> <a href="https://git.io/streak-stats"><img alt="Manish Kumar's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=onedark_duo&hide_border=true" /></a> </p>
+<p align="center"> <a href="https://git.io/streak-stats"><img alt="Manish Kumar's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=dark&hide_border=true&background=0D1117" /></a> </p>
 
 
 
-<!-- <a href="https://github.com/manishprivet/github-readme-stats"><img alt="Manish Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manishprivet&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!-- <a href="https://github.com/manishprivet/github-readme-stats"><img alt="Manish Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manishprivet&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/manishprivet/github-readme-stats"><img alt="Manish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
