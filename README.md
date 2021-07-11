@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">A passionate Full Stack Web Developer, currently interested in Cloud Computing, DevOps and Rust</h3>
+<a href="https://manishk.dev">![Whelton City (1)](https://user-images.githubusercontent.com/54291836/125185700-e950b980-e243-11eb-938c-8059f2c6475b.png)</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishprivet" alt="manishprivet" /> </p>
 
