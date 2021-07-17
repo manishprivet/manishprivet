@@ -34,7 +34,7 @@ JSX          12 mins         ▓░░░░░░░░░░░░░░░░
 
 ### 👀 My Github Stats
 
-<p align="center"> <a href="https://git.io/streak-stats"><img alt="Manish Kumar's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=dark&hide_border=true&background=0D1117" /></a> </p>
+<p align="center"> <a href="https://git.io/streak-stats"><img alt="Manish Kumar's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=onedark&hide_border=true&background=0D1117" /></a> </p>
 
 
 
@@ -44,7 +44,7 @@ JSX          12 mins         ▓░░░░░░░░░░░░░░░░
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&layout=compact)](https://github.com/manishprivet) -->
 <!-- ![Coder rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=manishprivet&width=250) -->
 
-![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=nord&bg_color=0D1117&hide_border=true)
+<!-- ![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=nord&bg_color=0D1117&hide_border=true) -->
 
 ### 🗒 Blogs I've written
 - [An introduction to Cloud, Docker and AWS Fargate](https://medium.com/@manishprivet/hey-folks-e4a300a5465c?source=rss-7d6d2d7e2bab------2)
