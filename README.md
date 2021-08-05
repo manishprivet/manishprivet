@@ -34,7 +34,7 @@ JSON         24 mins         ▓░░░░░░░░░░░░░░░░
 
 ### 👀 My Github Stats
 
-<p align="center"> <a href="https://git.io/streak-stats"><img alt="Manish Kumar's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=onedark&hide_border=true&background=0D1117" /></a> </p>
+<p align="center"> <a href="https://git.io/streak-stats"><img alt="Manish Kumar's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=onedark&hide_border=true" /></a> </p>
 
 
 
