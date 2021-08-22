@@ -2,21 +2,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishprivet" alt="manishprivet" /> </p>
 
-- #### 🔭&nbsp; I’m currently a FullStack Developer + Cloud Architect intern at [Maalexi](https://maalexi.com) as well as working on [IEEE Student Branch Website](https://ieee.iiitm.ac.in) of [ABV - IIITM, Gwalior](https://iiitm.ac.in), apart from my own personal projects of course
+- ### 🔭&nbsp; I’m currently a FullStack Developer + Cloud Architect intern at [Maalexi](https://maalexi.com) as well as working on [IEEE Student Branch Website](https://ieee.iiitm.ac.in) of [ABV - IIITM, Gwalior](https://iiitm.ac.in), apart from my own personal projects of course
 
-- #### 🌱 &nbsp;I’m currently learning **Rust, Golang, Google Cloud and AWS, GCP**
+- ### 🌱 &nbsp;I’m currently learning **Rust, Golang, Google Cloud and AWS, GCP**
 
-- #### 👨‍💻&nbsp; All of my projects are available at [https://manishk.dev](https://manishk.dev)
+- ### 👨‍💻&nbsp; All of my projects are available at [https://manishk.dev](https://manishk.dev)
 
-- #### 📝&nbsp; Read my blogs at my personal blog site [Codex](https://blog.manishk.dev) or on [Medium](https://medium.com/@manishprivet)
+- ### 📝&nbsp; Read my blogs at my personal blog site [Codex](https://blog.manishk.dev) or on [Medium](https://medium.com/@manishprivet)
 
-- #### 💬 &nbsp;Ask me about **React, Next.js, Gatsby, AWS, GCP, Github Actions, Firebase or anything else related to Web Development**
+- ### 💬 &nbsp;Ask me about **React, Next.js, Gatsby, AWS, GCP, Github Actions, Firebase or anything else related to Web Development**
 
-- #### 📫&nbsp; Reach me out at <a href="mailto:me@manishk.dev"><b>me@manishk.dev</b></a> or just search `manishprivet` anywhere 😉
+- ### 📫&nbsp; Reach me out at <a href="mailto:me@manishk.dev"><b>me@manishk.dev</b></a> or just search `manishprivet` anywhere 😉
 
-- #### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://manishk.dev/resume.pdf)
+- ### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://manishk.dev/resume.pdf)
 
-- #### 🤝&nbsp; I would love to talk and discuss with you, on any topic you want. Let's meet [here](https://calendly.com/manishprivet/30min)
+- ### 🤝&nbsp; I would love to talk and discuss with you, on any topic you want. Let's meet [here](https://calendly.com/manishprivet/30min)
 
 ### Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/ak6rgwer8utlykvcgi7gc73mq)
