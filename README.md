@@ -25,9 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript    2 hrs 27 mins   ██████████████████▓░░░░░░   74.79 %
-Objective-C   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-Other         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+TypeScript    2 hrs 56 mins   ██████████████████▓░░░░░░   74.18 %
+Other         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
 ```
 
 <!--END_SECTION:waka-->
