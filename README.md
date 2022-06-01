@@ -16,7 +16,7 @@
 
 - ### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://manishk.dev/resume.pdf)
 
-- ### 🤝&nbsp; I would love to talk and discuss with you, on any topic you want. Let's meet [here](https://cal.manishk.dev/book/15min)
+- ### 🤝&nbsp; I would love to talk and discuss with you, on any topic you want. Let's meet [here](https://calendly.com/manishprivet/15min)
 
 ### Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/ak6rgwer8utlykvcgi7gc73mq)
