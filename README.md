@@ -25,7 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON         30 mins         ████████████▒░░░░░░░░░░░░   49.51 %
+JavaScript   16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+TypeScript   14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.11 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
