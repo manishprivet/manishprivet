@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishprivet" alt="manishprivet" /> </p>
 
-- ### 🔭&nbsp; I’m currently a FullStack Developer + Cloud Architect intern at [Maalexi](https://maalexi.com) as well as working on [IEEE Student Branch Website](https://ieee.iiitm.ac.in) of [ABV - IIITM, Gwalior](https://iiitm.ac.in), apart from my own personal projects of course
+- ### 🔭&nbsp; I’m currently a Cloud Architect intern at [Blaze AI (YC W22)](https://withblaze.app).
 
-- ### 🌱 &nbsp;I’m currently learning **Rust, Golang, Google Cloud and AWS, GCP**
+- ### 🌱 &nbsp;I’m currently learning **Rust, Golang, and Distributed Systems**
 
 - ### 👨‍💻&nbsp; All of my projects are available at [https://manishk.dev](https://manishk.dev)
 
@@ -40,7 +40,6 @@ Charmci      0 secs          ░░░░░░░░░░░░░░░░░
 <p align="center"> <a href="https://git.io/streak-stats"><img alt="Manish Kumar's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=manishprivet&theme=onedark&hide_border=true" /></a> </p>
 
 
-
 <!-- <a href="https://github.com/manishprivet/github-readme-stats"><img alt="Manish Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manishprivet&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/manishprivet/github-readme-stats"><img alt="Manish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishprivet&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 
@@ -50,6 +49,7 @@ Charmci      0 secs          ░░░░░░░░░░░░░░░░░
 <!-- ![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=manishprivet&theme=nord&bg_color=0D1117&hide_border=true) -->
 
 ### 🗒 Blogs I've written
+- [Setup your personal VPN in the cloud, free for a lifetime](https://medium.com/tech-iiitg/setup-your-personal-vpn-in-the-cloud-free-for-a-lifetime-52e93b3e30b5)
 - [An introduction to Cloud, Docker and AWS Fargate](https://medium.com/@manishprivet/hey-folks-e4a300a5465c?source=rss-7d6d2d7e2bab------2)
 - [Web Server Deployment Using Nginx and Docker](https://blog.manishk.dev/server-deployment-using-nginx-and-docker/)
 - [Create a CI/CD Pipeling using Github Actions](https://blog.manishk.dev/create-a-ci-cd-pipeline-using-github-actions/)
