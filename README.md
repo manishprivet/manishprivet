@@ -25,8 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Properties   0 secs          █████████████████████████   99.61 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
