@@ -25,12 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   31.95 %
-TypeScript   1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-tmux         1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-conf         54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-Lua          42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-YAML         37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
