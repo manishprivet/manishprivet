@@ -1,4 +1,4 @@
-<a href="https://manishk.dev">![Whelton City (1)](https://user-images.githubusercontent.com/54291836/125185700-e950b980-e243-11eb-938c-8059f2c6475b.png)</a>
+<a href="https://manishk.dev">![Whelton City (1)](https://github.com/manishprivet/manishprivet/assets/54291836/a77122a6-f348-4d84-bf6d-ce9b000fbc41)</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishprivet" alt="manishprivet" /> </p>
 
