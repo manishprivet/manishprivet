@@ -4,7 +4,7 @@
 
 - ### 🔭&nbsp; I’m currently a Cloud Architect intern at [Blaze AI (YC W22)](https://withblaze.app).
 
-- ### 🌱 &nbsp;I’m currently learning **Rust, Golang, and Distributed Systems**
+- ### 🌱 &nbsp;I’m currently learning **Microservices, Data Engineering and Distributed Systems**
 
 - ### 👨‍💻&nbsp; All of my projects are available at [https://manishk.dev](https://manishk.dev)
 
