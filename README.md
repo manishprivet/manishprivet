@@ -25,7 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown    50 mins         ██████████████████▒░░░░░░   73.85 %
+Lua         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+Other       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+fish        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+gitignore   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
