@@ -2,19 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishprivet" alt="manishprivet" /> </p>
 
-- ### 🔭&nbsp; I’m currently a Cloud Architect intern at [Blaze AI (YC W22)](https://withblaze.app).
+- ### 🔭&nbsp; I’m currently a Senior Software Engineer at [Innovapptive](https://www.innovapptive.com/).
 
-- ### 🌱 &nbsp;I’m currently learning **Microservices, Data Engineering and Distributed Systems**
+- ### 🌱 &nbsp;I’m currently learning **Microservices, Data Engineering and Distributed Systems, and also Golang**
 
-- ### 👨‍💻&nbsp; All of my projects are available at [https://manishk.dev](https://manishk.dev)
-
-- ### 📝&nbsp; Read my blogs at my personal blog site [Codex](https://blog.manishk.dev) or on [Medium](https://medium.com/@manishprivet)
+- ### 👨‍💻&nbsp; All of my projects, blogs, resources and thoughts are available at [my Digital Garden](https://manishk.dev)
 
 - ### 💬 &nbsp;Ask me about **React, Next.js, Gatsby, AWS, GCP, Github Actions, Firebase or anything else related to Web Development**
 
 - ### 📫&nbsp; Reach me out at <a href="mailto:me@manishk.dev"><b>me@manishk.dev</b></a> or just search `manishprivet` anywhere 😉
 
-- ### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://manishk.dev/resume.pdf)
+- ### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://manishk.dev/resume)
 
 - ### 🤝&nbsp; I would love to talk and discuss with you, on any topic you want. Let's meet [here](https://calendly.com/manishprivet/15min)
 
