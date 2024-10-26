@@ -23,7 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform    6 mins          ███████████▓░░░░░░░░░░░░░   46.90 %
+JavaScript   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+JSON         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+TOML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+TSConfig     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
 ```
 
 <!--END_SECTION:waka-->
