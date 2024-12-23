@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishprivet" alt="manishprivet" /> </p>
 
-- ### 🔭&nbsp; I’m currently a Software Engineer at [Mercari](https://www.jp.mercari.com/).
+- ### 🔭&nbsp; I’m currently a Software Engineer at [Mercari](https://jp.mercari.com/).
 
 - ### 🌱 &nbsp;I’m currently learning **Microservices, Data Engineering and Distributed Systems, and also Golang**
 
