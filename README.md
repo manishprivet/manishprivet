@@ -16,9 +16,6 @@
 
 - ### 🤝&nbsp; I would love to talk and discuss with you, on any topic you want. Let's meet [here](https://calendly.com/manishprivet/15min)
 
-### Vibing to
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/ak6rgwer8utlykvcgi7gc73mq)
-
 ### 👨‍💻 Where I spent time on this week
 <!--START_SECTION:waka-->
 
