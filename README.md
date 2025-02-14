@@ -20,9 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 24 mins   ████████████████████████░   96.54 %
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-sh           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Text   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
