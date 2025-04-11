@@ -20,7 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua          2 mins          █████████████████████▒░░░   85.71 %
+YAML         0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+dosini       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
