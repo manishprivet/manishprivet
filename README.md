@@ -20,7 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua          16 mins         ██████████░░░░░░░░░░░░░░░   40.50 %
+Markdown     11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.21 %
+Terraform    5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Other        4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
