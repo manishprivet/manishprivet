@@ -20,8 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-fish       9 mins          ████████████████████▓░░░░   82.15 %
-Markdown   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
