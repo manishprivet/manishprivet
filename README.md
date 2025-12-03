@@ -20,7 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform   50 mins         ██████████████░░░░░░░░░░░   56.38 %
+Markdown    31 mins         █████████░░░░░░░░░░░░░░░░   35.64 %
+CUE         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
