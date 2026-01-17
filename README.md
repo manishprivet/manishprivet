@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         5 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.03 %
-Terraform    3 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-Bash         3 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-Markdown     2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-TypeScript   2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+YAML         3 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+Bash         2 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
+Markdown     2 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+TypeScript   1 hr 55 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Terraform    1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
 ```
 
 <!--END_SECTION:waka-->
