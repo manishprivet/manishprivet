@@ -20,11 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker      37 mins               █████████░░░░░░░░░░░░░░░░   35.97 %
-Markdown    20 mins               █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-Terraform   19 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
-YAML        15 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-Lua         7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
