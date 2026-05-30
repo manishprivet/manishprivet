@@ -20,11 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   18 mins               ███████████▒░░░░░░░░░░░░░   44.71 %
-Markdown    12 mins               ███████▒░░░░░░░░░░░░░░░░░   29.02 %
-Bash        7 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
-Go          2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Other       0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
